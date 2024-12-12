@@ -1,5 +1,4 @@
 //gujja mani chandan
-
 import React from "react";
 import Toggle from "../Toggle/Toggle";
 import "./Navbar.css";
