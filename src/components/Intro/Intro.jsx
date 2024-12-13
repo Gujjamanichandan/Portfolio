@@ -29,7 +29,7 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           <span style={{ color: darkMode ? "white" : "" }}>Hy! we are</span>
-          <span>Team-4</span>
+          <span>Team-20</span>
           <span>
             Frontend Developers with high level of experience in web designing
             and development, producting the Quality work
