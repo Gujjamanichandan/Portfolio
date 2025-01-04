@@ -1,22 +1,29 @@
-//Gujja Mani Chandan
-import { createContext, useReducer } from "react";
+// themeContext.js
+import React, { createContext, useReducer } from "react";
 
-export const themeContext = createContext();
+const themeContext = createContext();
 
-const initialState = { darkMode: false };
+const initialState = {
+  darkMode: true, // Set default to dark mode
+};
 
 const themeReducer = (state, action) => {
   switch (action.type) {
     case "toggle":
-        return { darkMode: !state.darkMode };
-      default:
-        return state;
+      return { darkMode: !state.darkMode };
+    default:
+      return state;
   }
 };
 
-export const ThemeProvider = (props) => {
+const ThemeProvider = ({ children }) => {
   const [state, dispatch] = useReducer(themeReducer, initialState);
+
   return (
-    <themeContext.Provider value={{state, dispatch}}>{props.children}</themeContext.Provider>
+    <themeContext.Provider value={{ state, dispatch }}>
+      {children}
+    </themeContext.Provider>
   );
 };
+
+export { themeContext, ThemeProvider };

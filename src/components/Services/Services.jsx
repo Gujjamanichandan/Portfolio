@@ -26,12 +26,12 @@ const Services = () => {
       {/* left side */}
       <div className="awesome">
         {/* dark mode */}
-        <span style={{ color: darkMode ? "white" : "" }}>Our Awesome</span>
-        <span>services</span>
+        <span style={{ color: darkMode ? "white" : "" }}>My</span>
+        <span>Skills</span>
         <spane>
           Providing landing pages for the best web services.
           <br />
-          We design landing pages that are fast, easy to use and look great.
+          I design landing pages that are fast, easy to use and look great.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
@@ -72,9 +72,9 @@ const Services = () => {
         >
           <Card
             emoji={Humble}
-            heading={"UI/UX"}
+            heading={"SQL"}
             detail={
-              "Lorem ispum dummy text are usually use in section where we need some random text"
+              "Proficient in SQL for designing, querying, and managing relational databases."
             }
             color="rgba(252, 166, 31, 0.45)"
           />
