@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b6bc17ff.css",
-    "main.js": "/Portfolio/static/js/main.613b490e.js",
+    "main.js": "/Portfolio/static/js/main.91175eb8.js",
     "static/media/Latice spice restaurent.png": "/Portfolio/static/media/Latice spice restaurent.aa57b5a7c2ac3d39578a.png",
     "static/media/Pizza hut.png": "/Portfolio/static/media/Pizza hut.45eb718b253a45687926.png",
     "static/media/medicare.png": "/Portfolio/static/media/medicare.78478e93452fef2ddd02.png",
@@ -18,10 +18,10 @@
     "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/Portfolio/index.html",
     "main.b6bc17ff.css.map": "/Portfolio/static/css/main.b6bc17ff.css.map",
-    "main.613b490e.js.map": "/Portfolio/static/js/main.613b490e.js.map"
+    "main.91175eb8.js.map": "/Portfolio/static/js/main.91175eb8.js.map"
   },
   "entrypoints": [
     "static/css/main.b6bc17ff.css",
-    "static/js/main.613b490e.js"
+    "static/js/main.91175eb8.js"
   ]
 }
