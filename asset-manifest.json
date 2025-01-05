@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Team-Portfolio/static/css/main.8ccb4743.css",
-    "main.js": "/Team-Portfolio/static/js/main.2c4ffac7.js",
+    "main.css": "/Team-Portfolio/static/css/main.b6bc17ff.css",
+    "main.js": "/Team-Portfolio/static/js/main.272d274a.js",
     "static/media/Latice spice restaurent.png": "/Team-Portfolio/static/media/Latice spice restaurent.aa57b5a7c2ac3d39578a.png",
     "static/media/Pizza hut.png": "/Team-Portfolio/static/media/Pizza hut.45eb718b253a45687926.png",
     "static/media/medicare.png": "/Team-Portfolio/static/media/medicare.78478e93452fef2ddd02.png",
@@ -17,11 +17,11 @@
     "static/media/Vector2.png": "/Team-Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/Team-Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/Team-Portfolio/index.html",
-    "main.8ccb4743.css.map": "/Team-Portfolio/static/css/main.8ccb4743.css.map",
-    "main.2c4ffac7.js.map": "/Team-Portfolio/static/js/main.2c4ffac7.js.map"
+    "main.b6bc17ff.css.map": "/Team-Portfolio/static/css/main.b6bc17ff.css.map",
+    "main.272d274a.js.map": "/Team-Portfolio/static/js/main.272d274a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ccb4743.css",
-    "static/js/main.2c4ffac7.js"
+    "static/css/main.b6bc17ff.css",
+    "static/js/main.272d274a.js"
   ]
 }
